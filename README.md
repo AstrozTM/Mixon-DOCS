@@ -17,5 +17,7 @@ The docs are located at
 ## Credits
 
 Main DEV : Astroz
+<br>
 Ideas : LordOfAllMemes
+<br>
 Informer of new updates : Izy
