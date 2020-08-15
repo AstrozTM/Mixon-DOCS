@@ -5,7 +5,7 @@
 This is for nerd fucks using my compiler.
 <br>
 The docs are located at 
- <a href="https://github.com/AstrozTM/-Rips-Decoder-encoder-Library/tree/master/Docs"><light>here</light></a>
+ <a href="https://github.com/AstrozTM/Mixon-DOCS/tree/master/Docs"><light>here</light></a>
  
 ## Support
 
