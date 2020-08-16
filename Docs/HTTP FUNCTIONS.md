@@ -32,5 +32,5 @@ This will encrypt your IP when making a request like a get or post method.\
 <br>
 Example:
 ```lua
-console.log(securehttpconnection('GET',url))
+log(securehttpconnection('GET',url))
 ```
