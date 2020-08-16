@@ -34,8 +34,3 @@ Example:
 ```lua
 console.log(securehttpconnection('GET',url))
 ```
-<html>
-  <body>
-<button class="ui primary button" role="button">Obfuscate</button>
-  </body>
-</html>
