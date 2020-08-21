@@ -2,7 +2,7 @@
 
 # Http Get
 ```lua
-<void> httpGet(<string>)
+<string> httpGet(<string>)
 ```
 This will get what's ever on the website you request a get from.
 <br>
