@@ -23,14 +23,3 @@ Example:
 data = {blah, blah} -- If your researching this you prob know what to send same as other ones
 httpPost(url,data)
 ```
-
-# Secure Http Connection
-```lua
-<string/void> securehttpconnection(<string>,<string>,<table>)
-```
-This will encrypt your IP when making a request like a get or post method.\
-<br>
-Example:
-```lua
-log(securehttpconnection('GET',url))
-```
