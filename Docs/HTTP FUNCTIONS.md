@@ -10,9 +10,10 @@ You can get IP logged or cookie logged
 <br>
 Example:
 ```lua
-local data = {
+data = {
  Url : ''
  Method : 'Get'
  }
- http(data)
+ R = http(data)
+ console.log(R)
 ```
