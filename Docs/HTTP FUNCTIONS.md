@@ -5,6 +5,7 @@
 <string> http(<table>)
 ```
 This function is built in and will do requests to whatever website you want.
+
 *DISCLAIMER
 You can get IP logged or cookie logged
 <br>
