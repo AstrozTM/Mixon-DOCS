@@ -6,7 +6,8 @@
 ```
 This function is built in and will do requests to whatever website you want.
 
-*DISCLAIMER
+*DISCLAIMER*
+
 You can get IP logged or cookie logged
 <br>
 Example:
